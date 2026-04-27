@@ -63,5 +63,5 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By email: patiyang6@gmail.com</li>
+<li>By email: elisicmendezc@gmail.com</li>
 </ul>
